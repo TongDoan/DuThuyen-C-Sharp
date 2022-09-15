@@ -1,0 +1,11 @@
+D:\MenuObject\LTTQ\DuThuyen\DuThuyen\bin\Debug\DuThuyen.exe.config
+D:\MenuObject\LTTQ\DuThuyen\DuThuyen\bin\Debug\DuThuyen.exe
+D:\MenuObject\LTTQ\DuThuyen\DuThuyen\bin\Debug\DuThuyen.pdb
+D:\MenuObject\LTTQ\DuThuyen\DuThuyen\obj\Debug\DuThuyen.csproj.AssemblyReference.cache
+D:\MenuObject\LTTQ\DuThuyen\DuThuyen\obj\Debug\DuThuyen.csproj.SuggestedBindingRedirects.cache
+D:\MenuObject\LTTQ\DuThuyen\DuThuyen\obj\Debug\DuThuyen.Form1.resources
+D:\MenuObject\LTTQ\DuThuyen\DuThuyen\obj\Debug\DuThuyen.Properties.Resources.resources
+D:\MenuObject\LTTQ\DuThuyen\DuThuyen\obj\Debug\DuThuyen.csproj.GenerateResource.cache
+D:\MenuObject\LTTQ\DuThuyen\DuThuyen\obj\Debug\DuThuyen.csproj.CoreCompileInputs.cache
+D:\MenuObject\LTTQ\DuThuyen\DuThuyen\obj\Debug\DuThuyen.exe
+D:\MenuObject\LTTQ\DuThuyen\DuThuyen\obj\Debug\DuThuyen.pdb
